@@ -38,7 +38,7 @@ void testApp::setup(){
 	
 	loadSettings();
 	
-	ofSetFrameRate(30);
+	ofSetFrameRate(60);
 	
 	triggerMode = TM_NONE;
 	
@@ -328,10 +328,10 @@ void testApp::mouseMoved(int x, int y ){
 void testApp::mouseDragged(int x, int y, int button){
 	if(y>ofGetHeight()-528  && triggerMode == TM_MOVING && y<ofGetHeight()-16)
 	{
-		if(triggers[selTrigger].lowBand + (x-oldMouse.x)/4 >= 0 && triggers[selTrigger].highBand + (x-oldMouse.x)/4 <= 256)
+		if(triggers[selTrigger].lowBand + x/4 >= 0 && (x/4)+triggers[selTrigger].highBand-triggers[selTrigger].lowBand <= 256)
 		{
-			triggers[selTrigger].lowBand += (x-oldMouse.x)/4;
-			triggers[selTrigger].highBand += (x-oldMouse.x)/4;
+			triggers[selTrigger].highBand = (x/4)+triggers[selTrigger].highBand-triggers[selTrigger].lowBand;
+			triggers[selTrigger].lowBand = x/4;
 			triggers[selTrigger].height = (float(y - ofGetHeight()+16)*-1)/512;
 		}
 		oldMouse.set(x,y);

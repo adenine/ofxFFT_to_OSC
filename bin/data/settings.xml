@@ -3,7 +3,13 @@
 </prefs>
 <Trigger>
     <name>bass&#x1B;</name>
-    <low_band>69</low_band>
-    <high_band>120</high_band>
-    <height>0.695312</height>
+    <low_band>8</low_band>
+    <high_band>59</high_band>
+    <height>0.111328</height>
+</Trigger>
+<Trigger>
+    <name>&#x1B;</name>
+    <low_band>40</low_band>
+    <high_band>130</high_band>
+    <height>0.349609</height>
 </Trigger>
