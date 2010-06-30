@@ -1,0 +1,9 @@
+<prefs>
+    <Send_Full_Spectrum>true</Send_Full_Spectrum>
+</prefs>
+<Trigger>
+    <name>bass&#x1B;</name>
+    <low_band>69</low_band>
+    <high_band>120</high_band>
+    <height>0.695312</height>
+</Trigger>

@@ -1,0 +1,108 @@
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:2:28: error: ofxXmlSettings.h: No such file or directory
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:39: error: 'loadSettings' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:43: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:43: error: 'TM_NONE' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:45: error: 'selTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:49: error: no 'void testApp::loadSettings()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'void testApp::loadSettings()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:50: error: 'useEQ' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:51: error: 'sendFullSpectrum' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:53: error: 'ofxXmlSettings' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:53: error: expected `;' before 'XML'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:55: error: 'XML' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:64: error: 'Trigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:64: error: expected `;' before 'newTrigger'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:65: error: 'newTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:72: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:76: error: 'saveSettings' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:81: error: no 'void testApp::saveSettings()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'void testApp::saveSettings()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:83: error: 'ofxXmlSettings' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:83: error: expected `;' before 'XML'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:85: error: 'XML' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:86: error: 'sendFullSpectrum' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:92: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::update()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:107: error: 'handleOSC' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::draw()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:112: error: 'drawTriggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:130: error: 'useEQ' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:144: error: no 'void testApp::drawTriggers()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'void testApp::drawTriggers()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:146: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:161: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:161: error: 'TM_NAMING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:170: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:170: error: 'TM_SETTING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:172: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:176: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:180: error: prototype for 'void testApp::plot(float*, int, float, int, float)' does not match any in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.h:32: error: candidate is: void testApp::plot(float*, int, float, float, bool)
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::audioReceived(float*, int, int)':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:205: error: 'useEQ' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:215: error: 'checkTriggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:218: error: no 'void testApp::handleOSC()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'void testApp::handleOSC()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:220: error: 'sendFullSpectrum' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:221: error: 'sendSpectrum' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:222: error: 'sendTriggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:225: error: no 'void testApp::sendSpectrum()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:236: error: no 'void testApp::sendTriggers()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'void testApp::sendTriggers()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:240: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:256: error: no 'void testApp::checkTriggers()' member function declared in class 'testApp'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'void testApp::checkTriggers()':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:258: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:264: error: 'useEQ' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::keyPressed(int)':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:286: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:286: error: 'TM_NAMING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:290: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:293: error: 'TM_NONE' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:297: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:300: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:305: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:309: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:312: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::mouseDragged(int, int, int)':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:329: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:329: error: 'TM_MOVING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:331: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:331: error: 'selTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:331: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:337: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::mousePressed(int, int, int)':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:343: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:343: error: 'TM_NAMING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:345: error: 'TM_NONE' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:348: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:352: error: 'selTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:358: error: 'selTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:362: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:363: error: 'TM_MOVING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:367: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:372: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:373: error: 'TM_SETTING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: In member function 'virtual void testApp::mouseReleased(int, int, int)':
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:384: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:384: error: 'TM_SETTING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:384: error: 'TM_NAMING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:384: error: 'oldMouse' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:386: error: 'Trigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:386: error: expected `;' before 'newTrigger'
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:387: error: 'newTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:395: error: 'triggers' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:398: error: 'triggerMode' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:398: error: 'TM_MOVING' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:400: error: 'selTrigger' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:401: error: 'TM_NONE' was not declared in this scope
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp: At global scope:
+/Users/jwalton/Documents/LABS_Openframeworks/of_preRelease_v0061_osx_FAT/apps/Joshua/ofxFFT_OSC/src/testApp.cpp:411: error: definition of implicitly-declared 'virtual testApp::~testApp()'
